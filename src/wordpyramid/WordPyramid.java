@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Ferris D.
+ * 05/11/2018
+ * Word pyramid
  */
 
 package wordpyramid;
